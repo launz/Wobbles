@@ -6,6 +6,10 @@ Unity tool for general purpose spring-like animations.
 Wobbles is a simple multi purpose tool for animating and moving things in a spring-like behavior.
 This version was built in C# for Unity but the code can easily used in a different environment. 
 
+## Setup:
+
+Just add Wobbles folder to Unity project. Only content of Scripts folder is needed, the rest is this readme and the example content.
+
 ## How-To:
 - create WobbleData for object that should be animated
 - use Wobbles.Follow with WobbleData, another animated value and a desired time-step, to make WobbleData.value move like a spring
