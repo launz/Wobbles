@@ -12,6 +12,6 @@ This version was built in C# for Unity but the code can easily used in a differe
 - adjust WobbleData's stiffness and damping parameters to find right spring properties
 - also includes WobbleData 2 and 3 as well as Follow functions for 2D and 3D movement
 
-The example script uses the fixed time-step and stiffness/ damping values of 160/ 10.
+This example gif uses the fixed time-step and stiffness/ damping values of 160/ 10:
 
 ![wobbles](https://user-images.githubusercontent.com/23469925/151717319-6b3dfdb5-c99d-47ab-9a30-0f4903da52dd.gif)
