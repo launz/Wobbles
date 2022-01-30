@@ -1,4 +1,4 @@
-# wobbles
+# Wobbles
 Unity tool for general purpose spring-like animations.
 
 ## Description:
