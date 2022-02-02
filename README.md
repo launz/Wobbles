@@ -18,4 +18,5 @@ Just add Wobbles folder to Unity project. Only content of Scripts folder is need
 
 This example gif uses the fixed time-step and stiffness/ damping values of 160/ 10:
 
-![wobbles](https://user-images.githubusercontent.com/23469925/151717319-6b3dfdb5-c99d-47ab-9a30-0f4903da52dd.gif)
+
+![wobbles](https://user-images.githubusercontent.com/23469925/152225186-4b1bf479-f66f-4601-a85d-7c9d109fc5ea.gif)
